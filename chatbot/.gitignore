@@ -1,0 +1,12 @@
+config.php
+*.sql
+*.sqlite
+*.db
+.env
+.vscode/
+.idea/
+.DS_Store
+debug.php
+check.php
+tests.php
+test-plan.txt
